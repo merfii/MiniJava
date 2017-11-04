@@ -1,6 +1,6 @@
 **Mini Java** is my final assignment of course <Compiler Technique>, written in C++, compiled by MSVC 2010.
 
-[Mini Java]( ) 
+[Mini Java](http://www.cambridge.org/resources/052182060X/) is a subset of Java. The meaning of a MiniJava program is given by its meaning as a Java program. Overloading is not allowed in MiniJava. The MiniJava statement System.out.println( ... ); can only print integers. The MiniJava expression e.length only applies to expressions of type int []. 
 
 
 Several clippings were made comparing to Java.
@@ -18,4 +18,4 @@ Several clippings were made comparing to Java.
 - No variable initialization during declearation.
 - No internal class.
 
-For precise definition of Mini Java, refer to [BNF]()
+For precise definition of Mini Java, refer to [BNF](http://www.cambridge.org/resources/052182060X/MCIIJ2e/grammar.htm)
