@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MiniJava">
+</Property><Property Name="解决方案文件" Value="E:\MiniJava\MiniJava\MiniJava.sln">
+</Property><Property Name="Date" Value="2015年1月17日">
+</Property><Property Name="Time" Value="13:53">
+</Property></Properties><Event ErrorLevel="0" Project="MiniJava" Source="MiniJava.vcproj" Description="Converting project file 'E:\MiniJava\MiniJava\MiniJava.vcproj'.">
+</Event><Event ErrorLevel="1" Project="MiniJava" Source="MiniJava.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="MiniJava" Source="MiniJava.vcproj" Description="Done converting to new project file 'E:\MiniJava\MiniJava\MiniJava.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="MiniJava" Source="MiniJava.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MiniJava.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MiniJava.sln" Description="Converted">
+</Event></UpgradeLog>
